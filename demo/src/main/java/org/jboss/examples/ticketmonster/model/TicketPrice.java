@@ -127,7 +127,7 @@ public class TicketPrice implements Serializable {
     }
 
     public float getPrice() {
-        return 0;//price;
+        return 1;//price;
     }
 
     public void setPrice(float price) {
